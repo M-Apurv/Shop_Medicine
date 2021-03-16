@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shop Medicine</string>
+    <string name="hint">Enter the number of medicine</string>
+    <string name="app_detail">This main purpose of creating this application is to help people order medicine online. This is created as part of our Project in Android Lab</string>
+    <string-array name="ailments">
+        <item>Allergies</item>
+        <item>Colds and Flu</item>
+        <item>Headaches</item>
+        <item>Stomach Aches</item>
+    </string-array>
+</resources>
